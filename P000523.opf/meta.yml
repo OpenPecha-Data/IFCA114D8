@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG9819
   title: ཟབ་དོན་ཐུགས་ཀྱི་སྙིང་པོ་བདུད་ཀྱི་གཅོད་ཡུལ་གྱི་སྐོར།
-  volume: ''
+  volume:
+    ee08a54fe4984576b4a7375e78b975a3:
+      image_group_id: I1KG9821
+      title: Volume 1 of zab don thugs kyi snying po bdud kyi gcod yul gyi skor/
+      volume_number: 1
+      total_pages: 554
   author: ''
+ebook_metadata:
+  title: ཟབ་དོན་ཐུགས་ཀྱི་སྙིང་པོ་བདུད་ཀྱི་གཅོད་ཡུལ་གྱི་སྐོར།
+  author: ''
+  sku: P000523
+  cover: cover.jpg
+  layers:
+  - pagination
