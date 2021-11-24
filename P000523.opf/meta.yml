@@ -1,5 +1,7 @@
 id: P000523
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG9819
   title: ཟབ་དོན་ཐུགས་ཀྱི་སྙིང་པོ་བདུད་ཀྱི་གཅོད་ཡུལ་གྱི་སྐོར།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 554
       base_file: v001.txt
-ebook_metadata:
-  title: ཟབ་དོན་ཐུགས་ཀྱི་སྙིང་པོ་བདུད་ཀྱི་གཅོད་ཡུལ་གྱི་སྐོར།
-  author: ''
-  sku: P000523
-  cover: cover.jpg
-  layers:
-  - pagination
